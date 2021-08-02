@@ -1,0 +1,80 @@
+body{
+    font-family: 'Poppins', sans-serif;}
+
+
+/* Header Section Start Here-------- */
+header{
+    background-color: #264653;
+}
+.custom-fw{
+    font-weight: 500;
+}
+
+/* Button */
+.custom-lgn-style{
+    background-color: #E76F51;
+    padding: 10px 24px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    transition: ease 0.3s;
+    display: inline-block;
+}
+
+.custom-lgn-style:hover{
+    box-shadow: inset 150px 0px 0px 0px black;
+    color: white;
+}
+
+.contact-c-margin{
+    margin-right: 100px;
+}
+
+.custom-fw{
+    font-weight: 300;
+    color: #E0E0E0;
+}
+
+
+
+/* <!-- Fetured Bikes Section Strat Here --> */
+.p-hr-custom-color{
+    margin: 0;
+    color: red;
+}
+
+.filter{
+    filter: grayscale(100%);
+}
+
+
+
+/* <!-- Latest News Section Start here --> */
+.c-border-reduos{
+    border-radius: 15px;
+}
+
+
+
+
+/* <!-- Happy Clients says --> */
+.clients-says-c-color{
+    color: #fc5126;
+}
+
+.star-c-bg{
+    color: #E76F51;
+}
+
+.empty-star-bg{
+    color: rgba(128, 128, 128, 0.596);
+}
+
+
+
+
+/* Footer Section Start here */
+footer{
+background-color: #0B0D17;
+}
